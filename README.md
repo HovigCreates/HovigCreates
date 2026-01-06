@@ -2,38 +2,40 @@
 
 ## 🚀 About Me
 
-Systems Administrator & Developer passionate about infrastructure automation, open-source projects, and building efficient solutions. Currently working on Jellyfin plugins and document management systems.
+Tinkerer at heart | Enthusiastic amateur dabbling in infrastructure, automation, and data wrangling. Currently trying to convince computers to do what I want (with varying degrees of success). Learning by breaking things and occasionally fixing them.
 
-🔧 **Specializing in:**
-- 🖥️ Proxmox Virtualization & Container Management
-- 🐳 Docker & Infrastructure Automation
-- 🐧 Linux System Administration (Ubuntu/Debian)
-- 📄 Document Management Solutions (Paperless-ngx)
-- 🎬 Media Server Technologies (Jellyfin)
+🔧 **Enthusiastically tinkering with:**
+- 🖥️ Proxmox & Docker *(still googling error messages)*
+- 🐧 Linux *(sudo apt-get install patience)*
+- 📄 Paperless-ngx *(attempting to digitize my analog chaos)*
+- 🎬 Jellyfin *(because I needed ONE more side project)*
+- 🤖 AI & Machine Learning *(fascinated by the possibilities, learning the fundamentals)*
 
 ## 💻 Tech Stack
 
 **Infrastructure & Systems:**
 ```
 Proxmox VE • Docker • Linux • Bash • Tailscale
+(Expertise level: "It works on my machine!")
 ```
 
 **Development:**
 ```
-Python • C# • JavaScript • SQL • PowerQuery
+PowerQuery & M-Code • SQL • * Python (beginner) • * C# (learning) • * JavaScript (experimenting)
 ```
 
 **Data & Analytics:**
 ```
-Power BI • Excel • ETL Pipelines • Data Governance
+Power BI • Excel Power Query • Data Transformation & Cleaning
 ```
 
 ## 🌱 Currently Working On
 
-- 🎬 **Jellyfin Plugin Development** - Building plugins for the Jellyfin media server ecosystem
-- 📚 **Document Management** - Optimizing Paperless-ngx workflows and automation
-- 🔐 **Data Governance** - Implementing compliance and access control frameworks
-- 🏢 **Non-Profit CRM** - Building organizational management systems for AGBU Germany
+- 🎬 **Jellyfin Plugin** - Built a plugin because I was too lazy to add another server and got annoyed with the password-remembering process. Classic programmer move: spend 10 hours automating a 5-minute task.
+- 📚 **Document Management** - Trying to organize my real life chaos digitally (spoiler: the digital chaos is just better indexed)
+- 🔐 **Data Governance** - Making sense of access rights and compliance requirements
+- 🏢 **AGBU Germany** - Helping to organize operations more sustainably and efficiently
+- 🤖 **AI Exploration** - Diving into AI/ML concepts and exploring practical applications in governance and automation
 
 ## 📊 GitHub Stats
 
@@ -43,16 +45,18 @@ Power BI • Excel • ETL Pipelines • Data Governance
 
 - 📍 Based in Frankfurt, Germany
 - 💼 Open to collaborations on infrastructure and open-source projects
+- 💬 Always happy to chat about AI, data governance, or why my Docker container won't start
 - 📫 Reach out via GitHub issues or discussions
 
 ## 🎯 Interests
 
-- 🏗️ Infrastructure as Code
+- 🏗️ Infrastructure as Code *(aspirational)*
 - 🤖 AI Governance & Implementation
 - 📖 Data Management & Compliance
-- 🌐 Self-hosted Solutions
+- 🌐 Self-hosted Solutions *(because why rely on the cloud when you can have your own 3am server emergencies)*
 - 👨‍💻 Open Source Contributing
+- 🧠 Machine Learning & AI Applications
 
 ---
 
-⭐️ From [HovigCreates](https://github.com/HovigCreates)
+⭐️ From [HovigCreates](https://github.com/HovigCreates) | *Professional Googler since [CURRENT_YEAR]*
