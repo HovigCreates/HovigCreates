@@ -55,4 +55,4 @@ Power BI • Excel • ETL Pipelines • Data Governance
 
 ---
 
-⭐️ From [HovigCreats](https://github.com/HovigCreates)
+⭐️ From [HovigCreates](https://github.com/HovigCreates)
